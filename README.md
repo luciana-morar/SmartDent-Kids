@@ -1,4 +1,9 @@
-# ![Logo SmartDent Kids](software-solution/tooth.png) SmartDent-Kids
+#  SmartDent-Kids
+
+<p align="center">
+  <img src="software-solution/tooth.png" alt="Logo SmartDent Kids" width="80"/>
+</p>
+<h1 align="center">SmartDent-Kids</h1>
 
 ## Despre Proiect 
 **SmartDent Kids** este o platformă bazată pe Inteligență Artificială concepută pentru a sprijini stomatologii pediatri în diagnosticarea și evaluarea leziunilor odontale la copii. Proiectul utilizează radiografii panoramice (OPT) pentru a detecta automat afecțiuni precum cariile, obturațiile sau leziunile de furcație, oferind totodată predicții privind prognosticul dintelui. 
