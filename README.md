@@ -19,9 +19,3 @@ Caria dentară la copii este o afecțiune frecventă, iar interpretarea radiogra
 Pentru antrenarea și testarea modelelor, se utilizează dataset-ul public [Dataset for Automating Dental Condition Detection on Panoramic Radiographs](https://zenodo.org/records/15487430) (disponibil pe Zenodo).
 - **Conținut:** 1.628 radiografii panoramice cu adnotări în format YOLO pentru 14 clase dentare.
 - **Limitare cunoscută:** Dataset-ul curent conține imagini de la pacienți adulți. Pentru scopul proiectului (copii), se va aplica strategia de Transfer Learning.
-
-## Tehnologii Utilizate
-- **Python 3.10+**
-- **Streamlit** (interfața web)
-- **Pandas** (procesarea tabelelor de date)
-- **Pillow** (procesarea imaginilor)
