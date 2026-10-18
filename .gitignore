@@ -1,0 +1,18 @@
+# Mediu virtual Python
+.venv/
+venv/
+env/
+
+# Fișiere PyCharm / IDE
+.idea/
+.vscode/
+*.iml
+
+# Fișiere sistem (Mac / Windows)
+.DS_Store
+Thumbs.db
+
+# Fișiere cache Python
+__pycache__/
+*.py[cod]
+*$py.class
