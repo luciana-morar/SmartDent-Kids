@@ -1,4 +1,4 @@
-# Raport Tehnic - Etapa 1
+# Raport Tehnic 
 ## SmartDent Kids: Platformă AI pentru Analiza Radiografiilor Panoramice Pediatrice
 
 **Echipa MIRPR:**
