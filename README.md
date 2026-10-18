@@ -1,5 +1,3 @@
-#  SmartDent-Kids
-
 <p align="center">
   <img src="software-solution/tooth.png" alt="Logo SmartDent Kids" width="80"/>
 </p>
